@@ -1,0 +1,12 @@
+{
+  "name": "external-configuration",
+  "dependencies": {
+    "config": "latest",
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start"
+  }
+}
