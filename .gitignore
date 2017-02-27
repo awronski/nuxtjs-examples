@@ -1,4 +1,4 @@
 /.idea/
-/mobile-desktop/.idea/
-/mobile-desktop/.nuxt/
-/mobile-desktop/node_modules/
+/*/.nuxt/
+/*/node_modules/
+/*/npm-debug.log
