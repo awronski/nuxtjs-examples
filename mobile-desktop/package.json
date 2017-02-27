@@ -1,0 +1,9 @@
+{
+  "name": "mobile-desktop",
+  "dependencies": {
+    "nuxt": "latest"
+  },
+  "scripts": {
+    "start": "nuxt"
+  }
+}
