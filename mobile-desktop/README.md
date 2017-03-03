@@ -1,3 +1,4 @@
-# Nuxt.js - Mobile / Desktop components switching in the pages using middleware.
+# Nuxt.js - Mobile / Desktop
+Components switching in the pages using middleware.
 
 Type ``nuxt`` to start a demo.
