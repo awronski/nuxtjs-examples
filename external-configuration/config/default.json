@@ -1,6 +1,6 @@
 {
   "apiBackend": {
-    "url": "some.domain.com",
+    "url": "development.domain.com",
     "port": 8000
   }
 }
