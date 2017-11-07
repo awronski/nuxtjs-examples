@@ -12,7 +12,7 @@
 
 <script>
   export default {
-    data ({ env }) {
+    asyncData ({ env }) {
       return {
         url: env.url,
         port: env.port
